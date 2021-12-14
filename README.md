@@ -1,2 +1,2 @@
 # automatetheboring
-Practice Projects from the book automatetheboring
+Practice Projects from the book automatetheboringstuffwithpython
